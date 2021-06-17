@@ -1,0 +1,35 @@
+body{
+    margin:40px;
+    background-image: url("https://lh3.googleusercontent.com/proxy/PvfN8KKXd_j1EOvc98OUe2Pp5VggO2yFbB4bhkmLsZBE0rWr2b-grcZ_as4NTwA_XsgF1pWMRhABeAIIJTDqyY1EiA9siPDYUDFTvHaoONUKaDKDMbLaPHCYjGMv") ;
+}
+input{
+    margin: 25px;
+    width: 300px;
+    height: 25px;
+}
+button{
+    background-color: rgb(209, 14, 14);
+    color:white;
+    font-weight:bold;
+    border-radius: 7px;
+    border: none;
+    width: 400px;
+    height: 60px;
+    padding: 20px;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
+h1{
+    background: -webkit-linear-gradient(rgb(248, 28, 28), white,rgb(248, 28, 28));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-size: 100px;
+}
+h2{
+    color: white;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font: italic;
+}
